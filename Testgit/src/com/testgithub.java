@@ -5,6 +5,4 @@ public class testgithub {
 		System.out.println("test github commit");
 		System.out.println("Rohit commited new line");
 	}
-	
-
 }
